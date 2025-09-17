@@ -1,0 +1,25 @@
+# Arquivos de log do bot
+login_bot_log_*.txt
+
+# Ambiente virtual Python
+venv/
+env/
+.env
+
+# Arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Notebooks checkpoint
+.ipynb_checkpoints/
