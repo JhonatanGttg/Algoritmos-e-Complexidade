@@ -26,7 +26,7 @@ faculteste.py/
 
 ```bash
 # Navegue até o diretório do projeto
-cd /Users/gttg/Downloads/faculteste.py
+cd /Users/gttg/Downloads/Algoritmos-e-Complexidade-instagram/main.py
 
 # Ative o ambiente virtual
 source venv/bin/activate
@@ -210,7 +210,7 @@ Se encontrar problemas:
 
 ---
 
-**Desenvolvido por:** Jhonatan Gttg  
+**Desenvolvido por:** Jhonatan Inacio e Gustavo Vinicius 
 **Data:** 2025  
 **Linguagem:** Python 3.13+  
 **Plataforma:** macOS
