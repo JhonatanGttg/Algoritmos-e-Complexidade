@@ -1,0 +1,40 @@
+# Ambiente virtual Python
+venv/
+.venv/
+env/
+.env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Arquivos de saída (podem ser regenerados)
+bio_instagram.json
+manchetes.json
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Credenciais e configurações sensíveis
+.env
+config.ini
+credentials.json
+
+# Arquivos temporários
+*.tmp
+*.temp
