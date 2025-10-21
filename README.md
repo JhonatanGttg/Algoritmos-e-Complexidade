@@ -88,8 +88,3 @@ _* Onde h é a altura da árvore (O(n) no pior caso para árvore desbalanceada)_
 
 - Python 3.6+
 - Nenhuma dependência externa necessária
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
