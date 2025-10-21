@@ -93,6 +93,3 @@ _* Onde h é a altura da árvore (O(n) no pior caso para árvore desbalanceada)_
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## 📧 Contato
-
-Jhonatan Inacio da Silva  
